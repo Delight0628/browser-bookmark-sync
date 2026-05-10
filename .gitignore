@@ -1,0 +1,28 @@
+# PowerShell
+*.ps1xml
+*.cat
+*.msi
+*.nuspec
+*.psd1
+*.pssc
+*.cdxml
+
+# Logs
+*.log
+logs/
+
+# Backup
+backup/
+*.bak
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
